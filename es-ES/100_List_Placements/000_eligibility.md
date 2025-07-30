@@ -2,12 +2,12 @@
 
 <div class='panel fade js-scroll-anim' data-anim='fade'>
 
-# Level Eligibility{id=placementeligibility}
+# Niveles Elegibles para Estar en la Lista{id=placementeligibility}
 
-A level must be **rated in-game** and must be considered *harder than the current demon placed at #150* in order to be placed on the Demon List.
+Un nivel debe **tener estrellas dentro del juego base** y ser considerado *más difícil que el Demon #150 de la lista* para que este sea colocado en la Demonlist.
 
-All levels must be legitimately verified by a single player, including solo verifications of 2-player levels. Levels will only be placed if proof of verification is provided to the list team, and this proof must meet our current standards for record eligibility.
+Todos los niveles deben ser legítimamente verificados por un solo jugador, incluyendo niveles de dos jugadores. Los niveles solo serán colocados en la lista si pruebas sobre la verificación de este son aportadas al equipo detrás de la lista, teniendo en cuenta que dichas pruebas estarán sujetas a los estándares actuales para la elegibilidad de récords.
 
-Rated levels without verification proof can also be placed once completed by another player, regardless of verification rights.
+Niveles con estrellas sin pruebas aportadas sobre su verificación también pueden ser colocados en la lista una vez sean completados legalmente por otro jugador, independientemente de los derechos de verificación otorgados por el creador. 
 
 </div>
