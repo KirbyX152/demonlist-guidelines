@@ -1,9 +1,9 @@
 <div class='panel fade js-scroll-anim' data-anim='fade'>
 
-# Timing of Placements{id=timing-of-placements}
+# Tiempo de Espera para Colocar Niveles{id=timing-of-placements}
 
-We will place a list-worthy level **one month** after it gets rated in-game. If a level is unquestionably the new #1 demon, it may be placed on the list sooner or instantly. Levels using the 2-player gamemode may be subject to an extended deadline.
+Colocaremos un nivel apto para estar en la lista **un mes después** de que reciba estrellas en el juego base. Si el nivel es, sin duda alguna, el nuevo top 1, será colocado en la lista con un tiempo de espera menor o, incluso, inmediatamente. Los niveles utilizando dos jugadores estarán sujetos a un posible mayor tiempo de espera.
 
-Please note that this guideline does **not** apply to levels with a hacked verification; the one-month timeline for a hacked level begins after it receives its first legitimate victor. In addition, this one-month timeline will **reset** if the level receives an [update](/guidelines/levelupdates/) with a legitimate verification.
+Por favor, tener en cuenta que estas pautas **NO** aplican a niveles con una verificación que haga uso de hacks; el tiempo de espera para estos niveles iniciará una vez haya una persona que haya logrado pasar el nivel de manera legítima. Además, este tiempo de espera se **reiniciará** si el nivel recibe una [actualización](/guidelines/levelupdates/) con una verificación legítima.
 
 </div>
