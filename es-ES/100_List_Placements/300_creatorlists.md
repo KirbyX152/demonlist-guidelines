@@ -1,15 +1,15 @@
 <div class='panel fade js-scroll-anim' data-anim='fade'>
 
-# Creator Lists{id=creators}
+# Lista de Creadores{id=creators}
 
-In general, the list team only adds creators that created "standalone" parts for a level; their contributions must not merely append to the work of another creator. This applies to _both gameplay and decoration_.
+Generalmente, el equipo de la lista solo añadirá creadores que hayan creado partes "independientes" en un nivel, es decir, la contribución a la parte no deben ser meras adiciones al trabajo de otro creador. Esto aplica _tanto para gameplay como para decoración_.
 
-Other individuals that played a major role in the level’s development may also be credited on the creator list, which includes level hosts and optimization teams, but **does not** include playtesters. Other cases in which the contribution may or may not be significant enough to qualify will be handled by the list team on a case-by-case basis.
+Otros individuos que hayan tomado un rol mayor en el desarrollo del nivel también serán acreditados en la lista de creadores, lo que incluye haber organizado un nivel o cambios de optimización en este, pero **NO** incluye a playtesters. Otros casos en los que la contribución sea muy o poca destacable para calificar en la lista de creadores serán manejados por el equipo de la Demonlist. 
 
-Some levels may contain offscreen parts that have unique creators but are not featured in the level's completion route. These creators **will not** be credited on the level page.
+Es posible que algunos niveles contengan partes que no sean accesibles cuando se juegue el nivel de manera normal. Los creadores de dichas partes, en caso de que sean únicos, **NO** serán acreditados en la página del nivel.
 
-## Host Privileges{id=host-privileges}
+## Privilegios de Organizadores {id=host-privileges}
 
-If the original verifier of a list demon is removed from the stats viewer, the host of the level has the right to change the listed verifier to another player with a legitimate completion. In the case of a hacked verification, the first legitimate victor of the level may also choose to be listed as the verifier.
+Si el verificador original de un nivel que se encuentre en la lista es removido del visor de estadísticas, el organizador del nivel tiene todo el derecho de cambiar el verificador, que solía ser listado en la página del nivel, con otro jugador que haya logrado completar el nivel de manera legítima. En el caso de una verificación hackeada, la primera persona que completó el nivel legítimamente también podrá elegir ser colocado como el verificador.
 
 </div>
