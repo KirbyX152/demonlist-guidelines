@@ -20,7 +20,7 @@ Los cambios listados acá están ordenados desde los más recientes, hasta los m
 
 - Se podrán deshacer los distintos cambios de aquellos niveles que contengan CBF Blockers (es decir, elementos en el gameplay que prohiban el uso del mod de Click Between Frames). Sin embargo, **está terminantemente prohibido el remover partes que son, naturalmente, más difíciles con CBF** (por ejemplo, frame perfects de 240fps que son más difíciles con CBF).
 
-- Para evitar que algunos records tomen una exagerada cantidad de tiempo en ser revisados debido a un tamaño excesivo (superior a 10GB), **se recomienda encarecidamente el uso de la opción de Replay Buffer en software de grabación como OBS Studio**. El tutorial en el que se muestra cómo acceder a esta función se encuentra en nuestro [server de Discord](https://cdn.discordapp.com/attachments/395692399919366147/1431301488386506802/replay_buffer_tutorial.mp4?ex=699d1923&is=699bc7a3&hm=e292a7e99f4829025c8c8c624084b3987cdcf63443acc4ddf501c61b4899e57b&).
+- Para evitar que algunos records tomen una exagerada cantidad de tiempo en ser revisados debido a un tamaño excesivo (superior a 10GB), **se recomienda encarecidamente el uso de la opción de Replay Buffer en software de grabación como OBS Studio**. El tutorial en el que se muestra cómo acceder a esta función se encuentra en [este vídeo](https://cdn.discordapp.com/attachments/395692399919366147/1431301488386506802/replay_buffer_tutorial.mp4?ex=699d1923&is=699bc7a3&hm=e292a7e99f4829025c8c8c624084b3987cdcf63443acc4ddf501c61b4899e57b&).
 
 ## Changes from v2.3 to v2.4 (10/16/2024){id=changelog-10162024}
 
