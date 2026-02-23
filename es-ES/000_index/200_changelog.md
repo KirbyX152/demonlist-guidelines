@@ -6,15 +6,21 @@ Este documento sirve como un archivo de los varios cambios que han habido en la 
 
 Los cambios listados acá están ordenados desde los más recientes, hasta los más antiguos. **Versión Actual: v3.0**
 
-## Changes from v2.4 to v3.0 (02/16/2026){id=changelog-02162026}
+## Cambios desde v2.4 to v3.0 (02/16/2026){id=changelog-02162026}
 
 - Todos los records que contengan un vídeo sin editar que sea inválido (links de YouTube, links de Google Drive privados, comprimidos, entre otros) **serán eliminados**. La persona que envió el record será entonces **contactada y se esperará el reenvío de su record** con el vídeo sin editar siguiendo los requerimientos de la lista.
   
 - Debido a la actualización 2.2 añadiendo un editor de partículas customizable para creadores con el fin de usarlas como decoración en sus niveles, **el uso del hack "No Particles" en niveles de la 2.2 ha sido baneado** pues puede representar un nerf considerable a las visuales de un nivel. **Nótese que este hack seguirá estando permitido para niveles de la 2.1**. Desde Megahack V9, **el hack no permitido en niveles de la 2.2 es el de "No Particles Classic"**.
   
-- **No están permitidos los cambios de textos alterados u otro tipo de decoración obstruyente en records de ahora en adelante**. Esto incluye, pero no está limitado a: indicadores que puedan alterar la dificultad, mensajes inapropiados, entre otros. Dicho esto, algunas excepciones pueden ser dadas por los moderadores si el cambio es lo suficiente mínimo e irrelevante, **pero estos cambios deben ser calificados por el equipo de la Demonlist**.
+- **No están permitidos los cambios de textos u otro tipo de decoración obstruyente en records de ahora en adelante**. Esto incluye, pero no está limitado a: indicadores que puedan alterar la dificultad, mensajes inapropiados, entre otros. Dicho esto, algunas excepciones pueden ser dadas por los moderadores si el cambio es lo suficiente mínimo e irrelevante, **pero estos cambios deben ser calificados por el equipo de la Demonlist**.
 
-- 
+- **Transmisiones en vivo ya no serán aceptadas como vídeos sin editar válidos** y harán que el record sea considerado inválido. Sin embargo, otras formas de proveer con el vídeo sin editar como grabaciones a través de un software de grabación o grabaciones a través de una cámara externa (siempre y cuando el monitor se vea lo suficientemente bien) serán permitidas.
+
+- Aquellos récords sobre niveles que se encuentren en la Legacy List estarán sujetos a las reglas y pautas del momento antes de que salgan de la lista principal. Sin embargo, y en este contexto, **los clicks siempre serán obligatorios**.
+
+- Se podrán deshacer los distintos cambios de aquellos niveles que contengan CBF Blockers (es decir, elementos en el gameplay que prohiban el uso del mod de Click Between Frames). Sin embargo, **está terminantemente prohibido el remover partes que son, naturalmente, más difíciles con CBF** (por ejemplo, frame perfects de 240fps que son más difíciles con CBF).
+
+- Para evitar que algunos records tomen una exagerada cantidad de tiempo en ser revisados debido a un tamaño excesivo (superior a 10GB), **se recomienda encarecidamente el uso de la opción de Replay Buffer en software de grabación como OBS Studio**. El tutorial en el que se muestra cómo acceder a esta función se encuentra en nuestro [server de Discord](https://cdn.discordapp.com/attachments/395692399919366147/1431301488386506802/replay_buffer_tutorial.mp4?ex=699d1923&is=699bc7a3&hm=e292a7e99f4829025c8c8c624084b3987cdcf63443acc4ddf501c61b4899e57b&).
 
 ## Changes from v2.3 to v2.4 (10/16/2024){id=changelog-10162024}
 
