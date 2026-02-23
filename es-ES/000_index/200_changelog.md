@@ -1,10 +1,20 @@
 <div class='panel fade js-scroll-anim' data-anim='fade'>
 
-# Changelog{id=changelog}
+# Lista de Cambios{id=changelog}
 
-This archives the various changes the list team has made to the rules and guidelines of the Demon List. Our main notification system for new changes is in our [Discord server](https://discord.gg/M7bDDQf), so if you are not a member there, it's a good idea to check this section occasionally for new updates.
+Este documento sirve como un archivo de los varios cambios que han habido en la lista con respecto a las reglas y pautas que la Demonlist sigue. Nuestro principal medio de comunicación en el que anunciamos nuevos cambios es nuestro [server de Discord](https://discord.gg/M7bDDQf). Si no es un miembro ahí, es recomendable que revise esta sección de vez en cuando para futuras actualizaciones.
 
-Changes listed here are ordered from most recent to least recent. **Current version: v2.4**
+Los cambios listados acá están ordenados desde los más recientes, hasta los más antiguos. **Versión Actual: v3.0**
+
+## Changes from v2.4 to v3.0 (02/16/2026){id=changelog-02162026}
+
+- Todos los records que contengan un vídeo sin editar que sea inválido (links de YouTube, links de Google Drive privados, comprimidos, entre otros) **serán eliminados**. La persona que envió el record será entonces **contactada y se esperará el reenvío de su record** con el vídeo sin editar siguiendo los requerimientos de la lista.
+  
+- Debido a la actualización 2.2 añadiendo un editor de partículas customizable para creadores con el fin de usarlas como decoración en sus niveles, **el uso del hack "No Particles" en niveles de la 2.2 ha sido baneado** pues puede representar un nerf considerable a las visuales de un nivel. **Nótese que este hack seguirá estando permitido para niveles de la 2.1**. Desde Megahack V9, **el hack no permitido en niveles de la 2.2 es el de "No Particles Classic"**.
+  
+- **No están permitidos los cambios de textos alterados u otro tipo de decoración obstruyente en records de ahora en adelante**. Esto incluye, pero no está limitado a: indicadores que puedan alterar la dificultad, mensajes inapropiados, entre otros. Dicho esto, algunas excepciones pueden ser dadas por los moderadores si el cambio es lo suficiente mínimo e irrelevante, **pero estos cambios deben ser calificados por el equipo de la Demonlist**.
+
+- 
 
 ## Changes from v2.3 to v2.4 (10/16/2024){id=changelog-10162024}
 
