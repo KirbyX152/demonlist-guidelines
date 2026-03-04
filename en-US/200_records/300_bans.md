@@ -14,4 +14,8 @@ Alternate accounts are prohibited for players that have already submitted record
 
 In addition, the list team prohibits 'qwer' accounts where multiple players submit records under a single name. These accounts will be banned permanently, and the players involved will be banned indefinitely until each one publicly confesses.
 
+## Problematic Players{id=problematic-players}
+
+If a player is deemed as "problematic" within the community due to various reasons, **their records will be removed**. This includes verifications and legacy records, as well as a removal of their list profile.
+
 </div>
