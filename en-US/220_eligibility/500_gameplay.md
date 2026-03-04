@@ -16,6 +16,8 @@ Note that this guideline permits records achieved on private servers (e.g., the 
 
 ## Altered Levels{id=altered-levels}
 
-**Submissions of levels with altered text or other non-obstructive decoration are not allowed anymore**, as well as decorations that completely change the level. That being said, some changes might be given exceptions if they are minuscule enough, **but only if a list member gives their approval**.
+**Submissions of levels with altered text or other non-obstructive decoration are not allowed anymore**, as well as decorations that completely change the level. 
+
+That being said, some changes might be given exceptions if they are minuscule enough, **but only if a list member gives their approval**.
 
 </div>
