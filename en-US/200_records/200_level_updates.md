@@ -18,6 +18,16 @@ A level may be updated to include a strong LDM or "Ultra" LDM that would not nor
 
 Records that were [rejected for a strong LDM](/guidelines/lowdetailmodes/#custom-ldms) before such an update _will be re-considered for addition to the list_ in accordance to the new LDM on the rated level.
 
-## New or Updated LDMs{id=updated-ldms}
+## CBF Blockers{id=cbf-blockers}
+
+All levels that have been updated to contain a CBF Blocker and did not originally contain it **are allowed to have the CBF blocker be removed**.
+
+As of 2.208, all levels that contain a CBF Blocker can have these blockers removed **as long as they do not affect the difficulty of said level**. If a CBF blocker makes any part of a level naturally harder, it is not allowed to remove it.
+
+## Particle Effects{id=particle-effects}
+
+Due to 2.2 adding a custom particle editor for creators to use as decoration within their levels, **the usage of the "No Particles" hack in 2.2 levels is banned**, as this could potentially act as a visual nerf. However, keep in mind that the hack **will still be available for 2.1 levels**. From Megahack V9 onwards, **the banned hack is labeled as "No Particles Classic"**.
+
+For levels updated in 2.2, but created back in 2.1, the usage of the "No Particles" hack **is completely allowed**.
 
 </div>
