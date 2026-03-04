@@ -6,8 +6,6 @@ Providing unedited raw footage is **_required_** for all records. Records submit
 
 Raw footage must be recorded at **30 frames per second or more**. Video quality should be high enough so that the level is easily visible.
 
-Keep in mind that all records that contain invalid raw footage (YouTube links, Google Drive private files, compressed files and others) **will be eliminated**. Following this, the user who submitted the record will be **contacted and expected to resubmit** with valid raw footage that meets the requirements.
-
 ## File Sharing{id=filesharing}
 
 Players must use **Google Drive** to share their raw footage files with us. Raw footage that is not uploaded to Google Drive **will not be accepted** unless the link is to an _unedited live stream_. Players can share Google Drive files by following this procedure:
@@ -18,7 +16,7 @@ Players must use **Google Drive** to share their raw footage files with us. Raw 
 4. In the pop-up menu, change “Restricted” to “Anyone with the link”</br>
 5. Copy the link and include it in the “Raw Footage” submission field!</br>
 
-Invalid raw footage links **will** result in a rejected record. However, players may reach out to the list team with a valid raw footage link for any rejected record.
+All records that contain invalid raw footage (YouTube links, Google Drive private files, compressed files and others) **will be eliminated**. Following this, the user who submitted the record will be **contacted and expected to resubmit** with valid raw footage that meets the requirements.
 
 [(Video Tutorial)](https://youtu.be/3LeRPX9bETw?feature=shared)
 
