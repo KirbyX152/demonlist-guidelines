@@ -24,137 +24,137 @@ Los cambios listados acá están ordenados desde los más recientes, hasta los m
 
 ## Cambios desde la v2.3 a la v2.4 (10/16/2024){id=changelog-10162024}
 
-- Raw footage now requires a 30+ FPS recording with moderate to high video quality.
+- El vídeo sin editar requiere ahora una calidad decente o alta de grabación para ser evaluado, así como 30+ FPS.
 
-- Changed level placement timeline to exactly 1 month.
+- Se cambió el tiempo en el que los niveles serán colocados en la lista a, exactamente, un mes.
 
-- Added a section for tutorial videos.
+- Se añadió una sección para vídeotutoriales.
 
-## Changes from v2.2 to v2.3 (4/18/2024){id=changelog-04182024}
+## Cambios desde la v2.2 a v2.3 (4/18/2024){id=changelog-04182024}
 
-- Reorganized and removed lots of redundant text from all sections, guidelines should be more readable now!
+- Se reorganizó y se removió muchas redundancias que solían existir en las descripciones de diversas secciones. Las pautas deberían ser más fáciles de leer ahora.
 
-- Removed the FPS limit for Geometry Dash version 2.2 and above.
+- Se removió el límite de FPS para versiones de Geometry Dash superiores a la 2.2.
 
-- Added rules for exploits/pause buffering.
+- Se añadieron reglas para el uso de explotaciones/precarga de clicks en pausas (pause buffering).
 
-## Changes from v2.1 to v2.2 (8/14/2023){id=changelog-08142023}
+## Cambios desde la v2.1 a la v2.2 (8/14/2023){id=changelog-08142023}
 
-- Added [Two Track Audio requirement](/guidelines/miscellaneous#clicks) for raw footage.
+- Se añadió el [requerimiento de Dos Pistas de Audio](/guidelines/miscellaneous#clicks) para los vídeos sin editar.
 
-- Additionally, users of Mega Hack v7 have their own [requirements](/guidelines/eligibility#mhv7) they must follow.
+- Adicionalmente, usuarios de Mega Hack v7 tienen sus propios [requerimientos](/guidelines/eligibility#mhv7) que deben seguir.
 
-- Updated/Added new guidelines for 2-player levels, including a requirement for handcams.
+- Se actualizaron y añadieron nuevas pautas y reglas para niveles de dos jugadores, incluyendo el requerimiento de usar handcams.
 
-- Updated [raw footage guidelines](/guidelines/rawfootage#requiredraw) to suggest players to use clips instead of full session recordings.
+- Se actualizaron [las pautas para vídeos sin editar](/guidelines/rawfootage#requiredraw) para sugerir a jugadores el usar clips en lugar de grabaciones de la sesión de juego completa.
 
-- Added requirement for [verifiers to provide the same proof standards](/guidelines/listplacements#placementeligibility) as normal completions.
+- Se añadieron requerimientos para [verificadores a someterse a las mismas pautas](/guidelines/listplacements#placementeligibility) que records normales.
 
-- Updated the [location feature](/guidelines/miscellaneous#location) to allow for manual location changes from moderators.
+- Se actualizó [la función de localidades](/guidelines/miscellaneous#location) para permitir cambios manuales de localidad hechos por moderadores.
 
-## Changes from v2.0 to v2.1 (1/08/2023){id=changelog-01082023}
+## Cambios desde la v2.0 a la v2.1 (1/08/2023){id=changelog-01082023}
 
-- Added in-mod fps counter requirement for Mega Hack v7+ users
+- Se añadió un requerimiento sobre mostrar el contador de FPS para usuarios de Mega Hack v7 para arriba.
 
-- Replaced old allowed hacks list with a comprehensive spreadsheet
+- Se reemplazó la lista de hackw permitidos con una hoja de cálculos más comprensible.
 
-## Changes from v1.8 to v2.0 (7/17/2022){id=changelog-07172022}
+## Cambios desde la v1.8 a la v2.0 (7/17/2022){id=changelog-07172022}
 
-- Changed the wording of nearly every guideline on this site - it's been a while!
-- Added an **absolute requirement** for audible clicks, raw footage, and an FPS counter.
+- Se cambió la descripción de casi todas las pautas y reglas de este sitio.
+- Se añadió un **requerimiento absoluto** para clicks que se puedan escuchar, vídeos sin editar y un contador de FPS.
 
-- Changed [raw footage guidelines](/guidelines/rawfootage#requiredraw) to require a **Google Drive link** instead of a YouTube video.
-- Added new guidelines related to the [User Area](/login) and ongoing [LDM Project](https://discord.gg/Ua8M4YJTBw).
-- Updated examples for bugs and skips on levels that are no longer on the list.
-- Updated the list of [allowed hacks](/guidelines/miscellaneous#allowed-hacks) to reflect the latest Mega Hack version.
-- Updated the [Key Takeaways](/guidelines/index#takeaways) and [Player Checklist](/guidelines/miscellaneous#checklist) to reflect these changes.
+- Se cambiaron [las pautas para vídeos sin editar](/guidelines/rawfootage#requiredraw), haciendo que requieran un **link de Google Drive** en lugar de un vídeo de YouTube.
+- Se añadieron nuevas reglas relacionadas al [Área de Usuario](/login) y el [proyecto de LDMs](https://discord.gg/Ua8M4YJTBw) en curso.
+- Se actualizaron ejemplos para bugs y skips para niveles que ya no se encuentran en la lista.
+- Se actualizó la lista de [hacks permitidos](/guidelines/miscellaneous#allowed-hacks) para reflejar la última versión de Mega Hack.
+- Se actualizaron las [Reglas Primordiales](/guidelines/index#takeaways) y la [Lista de Pautas para el Jugador](/guidelines/miscellaneous#checklist) para reflejar estos cambios.
 
 ## Changes from v1.7 to v1.8 (4/26/2021){id=changelog-04262021}
 
-- Changed the wording of our [skip guidelines](/guidelines/eligibility/#skips).
+- Se cambió la descripción de las [reglas sobre skips en un nivel](/guidelines/eligibility/#skips).
 
-- Added a guideline that prohibits the use of [alternate accounts](/guidelines/eligibility/#hacks) on the Demon List.
+- Se añadió una regla que prohibe el uso de [multicuentas](/guidelines/eligibility/#hacks) en la Demonlist.
 
-- Added a guideline raising the maximum framerate to 360FPS. Players must also use an [FPS counter](/guidelines/eligibility/#fps) if their framerate exceeds 300FPS.
+- Se añadió una regla que permite elevar la velocidad de fotogramas (framerate) a 360FPS. Los jugadores también deberán usar un [contador de FPS](/guidelines/eligibility/#fps) si el framerate excede los 300FPS.
 
-- Added a special rule in the list of [allowed hacks](/guidelines/miscellaneous/#allowed-hacks) that prohibits the Trail Always On hack if the level uses a Hide Player trigger for difficulty
+- Se añadió una regla especial en la lista de [hacks permitidos](/guidelines/miscellaneous/#allowed-hacks) que prohibe el uso del hack "Trail Always On" si el nivel usa el trigger para ocultar al espectador con el fin de crear dificultad.
 
-- Added a guideline prohibiting players from enabling or disabling hacks after the start of an attempt to abuse or otherwise change the difficulty of the level.
+- Se añadió una regla para prohibir a jugadores el uso de hacks después del inicio de un intento para evitar posibles abusos o cambios en la dificultad del nivel.
 
-## Changes from v1.6 to v1.7 (3/17/2021){id=changelog-03172021}
+## Cambios desde la v1.6 a la v1.7 (3/17/2021){id=changelog-03172021}
 
-- Changed the wording of our [framerate guidelines](https://pointercrate.com/guidelines/eligibility/#fps).
+- Se cambió la descripción con respecto a las [reglas de velocidad de fotogramas (framerate)](https://pointercrate.com/guidelines/eligibility/#fps).
 
-- Added a guideline that allows players to directly submit legacy records to the list team **only if** they were achieved before the level fell off the list and if they conform to **today's eligibility guidelines**.
+- Se añadió una regla que permite a jugadores enviar records de la Legacy Lust **solo si** fueron conseguidos antes de que el nivel haya salido de la lista y estén acordes a las **reglas de hoy en día**.
 
-- Added a guideline that allows players to submit records that use a [Type III or patched Type II skip](/guidelines/eligibility/#skips) as if they had achieved progress right before taking the skip.
+- Se añadió una regla que permite a jugadores el enviar records que usan un [skip de tipo III o tipo II arreglado](/guidelines/eligibility/#skips) como si hubieran logrado alcanzar el porcentaje antes de realizar el skip.
 
-- Added a guideline that prohibits the use of [shaders](/lowdetailmodes/#texture-packs) for record on the list.
+- Se añadió una regla que prohibe el uso de [shaders](/lowdetailmodes/#texture-packs) para un record en la lista.
 
-## Changes from v1.5 to v1.6 (1/31/2021){id=changelog-01312021}
+## Cambios desde la v1.5 a la v1.6 (1/31/2021){id=changelog-01312021}
 
-- Added statements that more clearly states the importance of clicks to the [key takeaways](/guidelines/index/#takeaways) and [player checklist](/guidelines/miscellaneous/#checklist) pages.
+- Se añadieron estamentos que resaltan la importancia del uso de clicks en las páginas de [Reglas Primordiales](/guidelines/index/#takeaways) y  [Lista de Pautas para el Jugador](/guidelines/miscellaneous/#checklist).
 
-- Removed the guideline about auto sections from Key Takeaways, as it was removed from the full guidelines in v1.5.
+- Se removió la regla sobre secciones automáticas en la página de Reglas Primordiales, pues ya había sido removida de las pautas definitivas en la v1.5.
 
-- Added RGB icons and Fast Reset to the list of allowed hacks.
+- Se añadieron los hacks de "RGB icons" y "Fast Reset" a la lista de hacks permitidos.
 
-- Added a guideline allowing players to adjust their framerate midway through an attempt, as long as it does not exceed their set maximum framerate.
+- Se añadió una regla que permite a jugadores ajustar la velocidad de fotogramas (framerate) en el medio de un intento mientras no exceda el límite de fotogramas.
 
-- Added a statement to Key Takeaways clarifying that we only accept Twitch highlights, **not** stream archives.
+- Se añadió un estamento en las Reglas Primordiales, aclarando que solo aceptamos highlights de Twitch, **no** VoDs.
 
-- Added a guideline requiring records to be on the current version of the game.
+- Se añadió una regla que requiere a los records ser de la actual versión del juego.
 
-- Specified that any record without **orb pulses** requires an FPS counter. Records that have wave pulses but no orb pulses are not exempt from this guideline!
+- Se especificó que cualquier record sin **pulsos de orbe** requiere de un contador de FPS. Los records que contienen pulsos en el wave, pero no pulsos de orbe **no** están exentos de esta regla.
 
-- Added a guideline stating that the list team almost never retroactively rejects records after a guidelines update.
+- Se añadió una regla que especifica que el equipo de la lista nunca rechaza un record añadido en el pasado por un cambio de reglas en el presente.
 
-- Clarified that players should send a **NoClip run of a custom LDM** to the list team so we can respond to their request quickly.
+- Se aclaró que los jugadores deben enviar una **grabación en NoClip sobre el LDM de un nivel** hacia el equipo de la lista para resolver las dudas correspondientes con brevedad.
 
-- Expanded the texture pack guidelines to prohibit anything that makes the text of the endscreen unreadable.,
+- Se expandieron las reglas sobre texture packs para prohibir cualquier cosa que haga el texto de la endscreen ilegible.
 
-## Changes from v1.4 to v1.5 (12/05/2020){id=changelog-12052020}
+## Cambios desde la v1.4 a la v1.5 (12/05/2020){id=changelog-12052020}
 
-- Transferred the original PDF document to the Pointercrate website, with similar organization to the [documentation](/documentation). The original PDF is now deprecated and will no longer be updated.
+- Se transfirió el documento PDF original al sitio de Pointercrate, con una organización similar a la del [documento](/documentation). El PDF original será descontinuado.
 
-- Removed the requirement for **full** raw footage with the Hide Attempt hack and changed it to a requirement for raw footage in general.
+- Se quitó el requerimiento del vídeo sin editar **completo** con el hack "Hide Attempt" y se cambió por requerimiento del vídeo sin editar en general.
 
-- Given that these rules are now available for everyone on this website, adjusted the raw footage guidelines so that **players need to provide raw footage along with their submission if they have it.** The list team will not be reaching out as frequently for raw footage as we did previously, because it would often result in records staying as "Under Consideration" for far too long.
+- Dado que estas reglas están ahora disponibles para todos en esta página web, se modificaron las reglas del vídeo sin editar para que **sea obligatorio que los jugadores envíen el vídeo sin editar junto a su record si es que lo tienen**. El equipo de la lista no se acercará tan frecuentemente como antes para preguntar si se tiene posesión del vídeo sin editar, pues desembocará en muchos de los records siendo colocados como Bajo Consideración.
 
-- Added a requirement for an FPS counter for every record on a level with an "official" in-game song.
+- Se añadió un requerimiento para un contador de FPS con una canción "oficial" del juego.
 
-- Clarified that if a list demon has a strong LDM built into the level, the list team will primarily consider opinions from those that use it, because it would represent the easiest "official" version of the level.
+- Se clarificó que, si un nivel de la lista tiene un LDM demasiado fuerte como parte del nivel, el equipo de la lista considerará más las opiniones de aquellos que lo usen, pues representará la versión más fácil y "oficial" del nivel.
 
-- Added a guideline that includes a public confession as part of the procedure to turn an indefinite ban into a temporary ban.
+- Se añadió una regla que incluye una confesión pública como parte del procedimiento para convertir un baneo permanente a un baneo temporal.
 
-- Removed the guideline regarding removing auto sections, as it did not really serve much purpose. To keep the level length the same, players would have to replace an auto section with...another auto section. The level length guideline is now in the Custom LDMs section.
+- Se removieron las reglas que correspondían a las secciones automáticas, dado que no tenían un propósito tan importante. Para que la longitud del nivel sea la misma, los jugadores deben reemplazar la sección automática con otra sección automática. Esta regla será encontrada en la sección de LDMs customizados.
 
-## Changes from v1.3 to v1.4 (10/29/2020):{id=changelog-10292020}
+## Cambios desde la v1.3 a la v1.4 (10/29/2020):{id=changelog-10292020}
 
-- Added guidelines for [creator lists](/guidelines/listplacements/#creators) and verifiers for list demons, including the various definitions of a “creator” and special privileges for megacollab hosts.
+- Se añadieron reglas para las [listas de creadores](/guidelines/listplacements/#creators) y verificadores para niveles de la lista, incluyendo las muchas definiciones de "creador" y privilegios para hosts de megacollabs. 
 
-- Added a guideline requiring players to respond to a team member’s request within three days before their record is automatically rejected. Responding later will not penalize players or impact the eligibility of their records in any way
+- Se añadió una regla que requiere que los jugadores el responder a un mimebro de la lista dentro de tres días antes de que su record sea rechazado automáticamente. Una respuesta tardía no penalizará a jugadores en el envío de records de ninguna forma.
 
-- Added a guideline allowing use of 360Hz only with proven possession of the monitor. This guideline transcends the traditional “hardware vs. software” argument because the lag and subsequent heavy LDMs required for 360fps bypass was determined to be too detrimental for the list to be acceptable.
+- Se añadió una regla que permite el uso de 360Hz solo con la posesión de un monitor que cumpla con esto. Esta regla trasciende el debate de "hardware vs software" porque la cantidad de lag y subsecuentes LDMs demasiado fuertes requeridos para el uso de 360fps era demasiado perjudicial para la lista para ser aceptado.
 
-- Removed the hard requirement of raw footage for first submissions, replacing it with “strong encouragement.” Players that are obviously legit with proof such as streams, a handcam, etc. will likely be an exception. Players should still be sure to provide raw footage with their submissions, just in case!
+- Se removió el requerimiento de vídeo sin editar para los primeros envíos de records, reemplazándolo con una "fuerte recomendación". Jugadores que sean obviamente legítimos con pruebas como streams, handcams, etc. serán, muy posiblemente, una excepción. Aún así, los jugadores deberían enviar el vídeo sin editar junto a sus envíos de records.
 
-- Emphasized that records without clicks, a handcam, or a live stream are almost guaranteed to get rejected.
+- Se enfatizó que un record sin clicks, handcam o hecho en vivo están casi garantizados de ser rechazados.
 
-- Added a guideline with understanding that changes to submission requirements may catch players off-guard. The list team may grant a [one-time exception](/guidelines/miscellaneous/#loopholes-and-exceptions) to these guidelines in these situations.
+- Se añadió una regla que cambia el cómo se manejan aquellos envíos que pueden tomar desprevenidos a jugadores, otorgando una [excepción de un solo uso](/guidelines/miscellaneous/#loopholes-and-exceptions) a estos records.
 
-## Changes from v1.2 to v1.3 (8/24/2020):{id=changelog-08242020}
+## Cambios desde la v1.2 a la v1.3 (8/24/2020):{id=changelog-08242020}
 
-- Added new guidelines for players submitting [raw footage](/guidelines/rawfootage) with their records. They fully describe the process players will need to follow to minimize the risk of a rejected record.
+- Se añadieron nuevas reglas para jugadores enviando [vídeos sin editar](/guidelines/rawfootage) junto a sus records. Estas, describen el proceso los jugadores han de seguir con el fin de minimizar el riesgo de tener un record rechazado.
 
-- Clarified the [texture pack guidelines](/guidelines/lowdetailmodes/#texture-packs) to allow all packs that only change the appearance of the player icons (e.g. ship, ball, wave, etc.).
+- Se aclararon las [pautas de texture packs](/guidelines/lowdetailmodes/#texture-packs) para solo permitir aquellos paquetes que solo cambien la apariencia de los íconos.
 
-## Changes from v1.1 to v1.2 (8/14/2020):{id=changelog-08142020}
+## Cambios desde la v1.1 a la v1.2 (8/14/2020):{id=changelog-08142020}
 
-- Added a guideline that allows Practice Mode records from 0% only with a visible FPS counter.
+- Se añadió una regla que permite el envío de records realizados en el Modo Práctica desde el 0% solo con un contador de FPS visible.
+  
+- Se cambiaron las [pautas de LDM](/guidelines/lowdetailmodes) para permitir cambios mínimos al color del nivel siempre y cuando este desemboque en posibles daños a la visión.
+  
+- Se añadió el hack de "No Glow" a la [lista de hacks permitidos](/guidelines/miscellaneous/#allowed-hacks), siendo que el mismo efecto ocurre con el LDM del juego.
 
-- Changed the [LDM guidelines](/guidelines/lowdetailmodes) to allow minor color changes whenever the original level causes problems to eyesight.
-
-- Added No Glow to the [list of allowed hacks](/guidelines/miscellaneous/#allowed-hacks), since the same effect occurs with the in-game Low Detail Mode.
-
-## Changes from v1.0 to v1.1 (7/19/2020):{id=changelog-07192020}
+## Cambios desde la v1.0 a la v1.1 (7/19/2020):{id=changelog-07192020}
