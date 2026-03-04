@@ -26,8 +26,10 @@ Raw footage of 5 to 15 minutes at moderately high quality is recommended; howeve
 
 If your raw footage exceeds the free Google Drive storage limit (15GB), reach out to a member of the list team for help!
 
+In order to avoid some records taking some time in being reviewed due to an excessive file size (over 10GB), **it is highly recommended to use Replay Buffer in recording software such as OBS Studio**. A tutorial that shows how to access this feature can be found [here](https://cdn.discordapp.com/attachments/395692399919366147/1431301488386506802/replay_buffer_tutorial.mp4?ex=69a99f63&is=69a84de3&hm=11126cf572aa8a693b7abb441871bc85a8758370891ce36345de896845851030&).
+
 ## Live Streams{id=livestreams}
 
-A link to an **unedited and public** live stream with **chat enabled** is acceptable as raw footage. However, it is still recommended to submit a local recording alongside a live stream. If a live stream is used as raw footage, the player must ensure that **highly audible clicks** are included.
+As of 22/05/2025, **Live Streams are no longer allowed as a form of raw footage**. From that date forward, only unedited recordings captured through recording software (e.g., OBS, Shadowplay / NVIDIA APP, AMD Relive), and liveplays **will be accepted on Pointercrate**.
 
 </div>
