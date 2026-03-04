@@ -18,7 +18,7 @@ Due to 2.2 adding a custom particle editor for creators to use as decoration wit
 
 For levels updated in 2.2, but created back in 2.1, the usage of the "No Particles" hack **is completely allowed**.
 
-From Megahack V9 onwards, **the banned hack is labeled as "No Particles Classic"**.
+From Mega Hack V9 onwards, **the banned hack is labeled as "No Particles Classic"**.
 
 ## Click Between Frames and Physics Bypass{id=click-between-frames}
 
