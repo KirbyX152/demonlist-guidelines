@@ -14,8 +14,8 @@ _Any record_ that was not achieved on the current version of the game **or** the
 
 Note that this guideline permits records achieved on private servers (e.g., the 1.9 GDPS) as long as the list demon was originally verified and published on the server as well.
 
-## Altered Decoration{id=altered-decoration}
+## Altered Levels{id=altered-levels}
 
-**Submissions of levels with altered text or other non-obstructive decoration are not allowed anymore**. That being said, some changes might be given exceptions if they are minuscule enough, **but only if a list member gives their approval**.
+**Submissions of levels with altered text or other non-obstructive decoration are not allowed anymore**, as well as decorations that completely change the level. That being said, some changes might be given exceptions if they are minuscule enough, **but only if a list member gives their approval**.
 
 </div>
