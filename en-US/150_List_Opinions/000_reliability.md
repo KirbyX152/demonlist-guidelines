@@ -4,16 +4,16 @@
 
 # Player Reliability{id=player-reliability}
 
-The list team considers the opinions of every victor and player with significant progress when constructing an opinion list. However, opinions may be weighted differently based on player reliability. **Players will be asked by a team member to self-assess their reliability for each list opinion on a scale from 0 to 10.** Reliability factors that players should consider include but are not limited to the following list:
+The list team considers the opinions of every victor and player with significant progress when constructing an opinion list. However, opinions may be weighted differently based on player confidence. **Players will be asked by a team member to self-assess their confidence for each list opinion on a scale from 0 to 4**, with 0 being **Very unsure** and 4 being **Very Confident** about their opinion. Confidence factors that players should consider include but are not limited to the following list:
 
 - **Verifications**: Verifiers that change gameplay prior to completing the full level tend to have outlier opinions. As such, unless there are little to no victors of a given level, verifiers tend to be omitted from opinion lists.<br><br>
 - **Previous Experience**: Players who have completed a level as a hardest demon and/or have not completed other levels around the same difficulty are generally considered less reliable than players with more experience.<br><br>
 - **Level Experience**: A player's personal experience with a particular level may make their opinion less reliable, such as getting "unlucky", playing with different peripherals, or other factors external to the level itself.<br><br>
 - **Time Between Completions:** A direct comparison may be unreliable if there is a large time gap between completions. This could be due to a player's skill level changing or an opinion becoming less clear over time. <br><br>
 
-## Player Exclusion{id=player-exclusion}
+## Unreliable Players{id=player-exclusion}
 
-Players that do not cooperate with the list team when providing opinions (e.g. deliberately providing inaccurate information) will not be considered for future list placements or movements. Players may also choose to be excluded from providing list opinions by contacting a member of the list team.
+Players that do not cooperate with the list team when providing opinions (e.g. deliberately providing inaccurate information) will be maintained in high alert for future list placements or movements. While this does not necessarily mean their opinions will not be taken into account, it is highly likely that their inputs will be deemed as "unreliable". Players may also choose to be excluded from providing list opinions by contacting a member of the list team.
 
 ## Low Detail Modes{id=ldms}
 
