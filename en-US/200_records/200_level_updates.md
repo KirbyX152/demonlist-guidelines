@@ -18,4 +18,6 @@ A level may be updated to include a strong LDM or "Ultra" LDM that would not nor
 
 Records that were [rejected for a strong LDM](/guidelines/lowdetailmodes/#custom-ldms) before such an update _will be re-considered for addition to the list_ in accordance to the new LDM on the rated level.
 
+## New or Updated LDMs{id=updated-ldms}
+
 </div>
