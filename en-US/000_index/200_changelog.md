@@ -6,7 +6,9 @@ This archives the various changes the list team has made to the rules and guidel
 
 Changes listed here are ordered from most recent to least recent. **Current version: v3.0**
 
-## Changes from v2.4 to v3.0 (02/23/2026){id=changelog-02232026}
+## Changes from v2.4 to v3.0 (02/23/2026){id=changelog-10072026}
+
+- The "No Ghost Trial" setting has been **partially unbanned** due to how it has little to no impact on gameplay in most situations. The setting however **will remained banned** for levels in which **there is an active Hide Player trigger at the same time as an active Ghost Trail trigger**. Examples of this include Silent clubstep's last cube and BRITNEY NO SCLEARS's last ship. If you have any doubts in regards to the setting affecting a level, feel free to contact a Demonlist staff member via DM!
 
 - All records that contain invalid raw footage (YouTube links, Google Drive private files, compressed files and others) **will be eliminated**. Following this, the user who submitted the record will be **contacted and expected to resubmit** with valid raw footage that meets the requirements.
 
