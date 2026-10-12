@@ -11,7 +11,7 @@ This checklist summarizes the most essential steps players should take to minimi
 - Do not skip the dropdown endscreen after a completion! This will warrant an immediate rejection of your record.<br><br>
 - Users of Mega Hack, Geode, other mods are subject to [additional requirements](/guidelines/eligibility#hacks).<br><br>
 - For game versions before 2.2, players can use up to 360 FPS and must enable a readable [FPS counter](/guidelines/eligibility#fps)!<br><br>
-- If you record a [liveplay](/guidelines/rawfootage#handcams-and-liveplays) (e.g., with your phone camera), make sure that your screen is clearly visible!
+- If you record a [liveplay](/guidelines/rawfootage#handcams-and-liveplays) (e.g., with your phone camera), make sure that your screen is clearly visible!<br><br>
 - While file size **does not affect record approval**, larger file sizes can sometimes cause substantial delays in the review process. 
 
 </div>
