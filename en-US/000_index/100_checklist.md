@@ -12,6 +12,6 @@ This checklist summarizes the most essential steps players should take to minimi
 - Users of Mega Hack, Geode, other mods are subject to [additional requirements](/guidelines/eligibility#hacks).<br><br>
 - For game versions before 2.2, players can use up to 360 FPS and must enable a readable [FPS counter](/guidelines/eligibility#fps)!<br><br>
 - If you record a [liveplay](/guidelines/rawfootage#handcams-and-liveplays) (e.g., with your phone camera), make sure that your screen is clearly visible!<br><br>
-- While file size **does not affect record approval**, larger file sizes can sometimes cause substantial delays in the review process. 
+- While file size **does not affect record approval**, larger file sizes can sometimes cause substantial delays in the review process. That being said, if your raw footage is already over 10GB, **do not trim it**, as it will result in the raw footage being edited and, therefore, deleted. Instead, try to use Replay Buffer for future submissions. A tutorial can be found [here](https://discord.com/channels/395654171422097420/1463644994643427533/1463647469727383668).
 
 </div>
