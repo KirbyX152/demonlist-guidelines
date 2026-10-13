@@ -12,7 +12,7 @@ Some levels may contain offscreen parts that have unique creators but are not fe
 
 If the original verifier of a list demon is removed from the stats viewer, the host of the level has the right to change the listed verifier to another player with a legitimate completion. In the case of a hacked verification, the first legitimate victor of the level may also choose to be listed as the verifier.
 
-## Controversial Creators/Verifiers{id=host-privileges}
+## Controversial Creators/Verifiers{id=controversial-creators}
 
 If an unrated level gets added to the list, but its creators or verifier are deemed as controversial persons, the level **will have these user's credits removed**. The level will therefore still be on the list, while zero credits will be given to highly questionable people.
 
