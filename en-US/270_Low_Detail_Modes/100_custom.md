@@ -4,7 +4,7 @@
 
 Players are _strongly advised_ to clear any custom LDMs with the team before using them, especially if an LDM for the level already exists. Strong level LDMs may be considered nerfs, which violates our guidelines for [gameplay changes](/guidelines/eligibility#gameplay).
 
-**Using a custom LDM carries the risk of a rejected record**! Even if an LDM has been approved in the past, it is always recommended to ask the list team whether it is still acceptable. Players may refer to our [LDM spreadsheet](https://docs.google.com/spreadsheets/d/1FqcYP8IwYstIueKWnow9b_07tscVNZBYIZyv-2SrH4o/edit?usp=sharing) for a list of approved LDMs.
+**Using a custom LDM carries the risk of a rejected record**! Even if an LDM has been approved in the past, it is always recommended to ask the list team whether it is still acceptable. Players may refer to our [Copy Tracker](https://arkane.moe/copy-tracker/) for a list of approved LDMs.
 
 ## Custom LDM Guidelines{id=custom-ldm-guidelines}
 
