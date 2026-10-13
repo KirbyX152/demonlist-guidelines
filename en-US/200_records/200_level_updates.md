@@ -6,6 +6,8 @@ An update to a level that significantly increases its difficulty will cause all 
 
 Any update to a level which changes its difficulty will _invalidate all previous versions_ for future records on the list. Previous versions for levels that receive minor updates, such as those that fix bugs in the gameplay, will still be acceptable for list records.
 
+If an unrated level that is on the list receives an update, **it will also be affected by these guidelines.**
+
 ## Patched Skips{id=patched-skips}
 
 Many updates remove skips that had been accepted for records on the original version. Existing records will **never be affected after a level update fixes one or more skips**.
