@@ -6,7 +6,7 @@
 
 A handcam is defined as a clear, continuous view of the player’s input device (e.g. keyboard).
 
-In order to verify that a record was achieved by a single player, **levels using the 2-player gamemode require a handcam to be present throughout raw footage!** Handcams are not required for 1-player levels but are recommended.
+In order to verify that a record was achieved by a single player, **levels using the 2-player gamemode require a handcam to be present throughout raw footage!** If a level contains a 2-player section that barely affects the difficulty of the level, handcams are not required. Handcams are also not required for 1-player levels, but are recommended.
 
 ## Liveplays{id=liveplays}
 
