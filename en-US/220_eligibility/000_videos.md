@@ -14,6 +14,6 @@ Players who mistakenly exit the level or enable a banned hack midway through an 
 
 ## 2-Player Levels{id=2p-levels}
 
-Levels using the 2-player gamemode **require a handcam showing both inputs** to be present throughout the record attempt. This handcam must be present in the raw footage but may be excluded from the public video. That being said, a level that only contains a 2-player section that barely affects the difficulty of it **will not need a handcam as a requirement**.
+Levels using the 2-player gamemode **require a handcam showing both inputs** to be present throughout the record attempt. This handcam must be present in the raw footage but may be excluded from the public video. However, levels with 2-player sections that do not significantly impact the overall difficulty are exempt from this requirement.
 
 </div>
