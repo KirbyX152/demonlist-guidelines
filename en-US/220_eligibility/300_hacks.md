@@ -26,4 +26,8 @@ The usage of Click Between Frames is not penalised and is **currently allowed fo
 
 As of 2.208, the usage of Click Between Steps **is also allowed**, while the allowance of CBF remains untouched.
 
+## No Ghost Trail{id=no-ghost-trail}
+
+The No Ghost Trail setting withIN Megahack is allowed to use **as long as there is not an active Hide Player trigger at the same time as an active Ghost Trail trigger.** This includes, but is not limited to, levels like Silent clusbtep or BRITNEY NO SCLEARS. If you have any doubt in regards to this guideline, always make sure to contact a member of the list team.
+
 </div>
