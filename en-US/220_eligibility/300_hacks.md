@@ -28,6 +28,6 @@ As of 2.208, the usage of Click Between Steps **is also allowed**, while the all
 
 ## No Ghost Trail{id=no-ghost-trail}
 
-The No Ghost Trail setting withIN Megahack is allowed to use **as long as there is not an active Hide Player trigger at the same time as an active Ghost Trail trigger.** This includes, but is not limited to, levels like Silent clusbtep or BRITNEY NO SCLEARS. If you have any doubt in regards to this guideline, always make sure to contact a member of the list team.
+The "No Ghost Trail" option from Megahack has been **partially unbanned** as it has little to no impact on gameplay in most situations. However, **it remains banned** for levels with an active Hide Player trigger at the same time as an active Ghost Trail trigger (e.g., Silent clubstep’s last cube and BRITNEY NO SCLEARS’s last ship). If you are unsure whether this setting affects a specific level, feel free to contact a Demonlist staff member via DM.
 
 </div>
