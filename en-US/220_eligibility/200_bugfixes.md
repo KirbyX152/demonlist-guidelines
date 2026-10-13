@@ -2,7 +2,7 @@
 
 # Fixing Bugs{id=bugfixes}
 
-Bug fixes may be acceptable for gameplay that is made _impossible or unreasonably more difficult_ by physics changes or certain framerates. **_Players should always verify custom bug fixes with the list team before using them!_**
+Bug fixes may be acceptable for gameplay that is made _impossible or unreasonably more difficult_ by physics changes or certain framerates. **_Players should always verify custom bug fixes with the list team before using them!_** Approved bugfixes and LDMs can be found in our [Copy Tracker](https://arkane.moe/copy-tracker/).
 
 ## Illegal Bug Fixes{id=illegal-bugfixes}
 
