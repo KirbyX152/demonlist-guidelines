@@ -16,6 +16,8 @@ Records are **not** accepted for levels that have fallen into the legacy list.
 
 A legacy record may be considered for addition if proof exists that the record was achieved before the level entered the legacy list. However, it is not possible to submit legacy records using the submission form, so players may send these to the list team through [our Discord server](https://discord.gg/M7bDDQf). 
 
+If a level that is currently in the Legacy List of Rated+ still sits at the top 150 of the Classic List, **players will still be able to submit records for it**. That being said, if this level falls into the Legacy List in both lists, **records will not be allowed anymore.**
+
 ***All submitted records will be considered under submission guidelines at the time of their completion***. However, in this context, **clicks will always be mandatory for all legacy records**.
 
 </div>
