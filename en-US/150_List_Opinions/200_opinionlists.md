@@ -8,5 +8,6 @@ When starting direct comparisons, the level currently placed at the mean (exclud
 
 Once an opinion sheet is complete, the placement or movement must be approved by multiple members of the list team before any change is made to the demon list.
 
+With the introduction of unrated levels to Rated+, all opinions and comparisons will be done using the Rated+ list moving forward. That being said, changes will still be made to the Classic list in order to be up to date alongside Rated+. Therefore, a level that gets raised between two unrated levels in Rated+ will also be raised in Classic, but taking unrated levels out of the equation.
 
 </div>
