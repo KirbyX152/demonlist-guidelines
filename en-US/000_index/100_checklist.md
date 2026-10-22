@@ -4,14 +4,14 @@
 
 This checklist summarizes the most essential steps players should take to minimize delays in getting their records approved! More information can be found in the linked sections of the guidelines.
 
-- Complete the level on the **official version on the servers** or on an allowed copy uploaded to our [Copy Tracker](https://arkane.moe/copy-tracker/).<br><br>
+- Complete the level on the **rated version on the servers** or on an approved copy uploaded to our [Copy Tracker](https://arkane.moe/copy-tracker/).<br><br>
 - If you complete a level on a copy that is not in our database, clear it with the list team first! This includes but is not limited to [LDMs](/guidelines/lowdetailmodes/) and [bug fixes](/guidelines/eligibility/#bugfixes).<br><br>
-- [Raw footage](/guidelines/rawfootage/) is **required for every submission!** Be sure to provide a [shared Google Drive link](/guidelines/rawfootage#requiredraw) to avoid delays in accepting your record. Remember to make public your raw footage for us to check it or, else, your record will be deleted.<br><br>
+- [Raw footage](/guidelines/rawfootage/) is **required for every submission!** Be sure to provide a [shared Google Drive link](/guidelines/rawfootage#requiredraw) to avoid delays in accepting your record. Google Drive links are set to private by default, so be sure its access is set to "Anyone with the link"!.<br><br>
 - Your raw footage must include an audio track with [**isolated click sounds**](/guidelines/miscellaneous#clicks) (i.e., microphone audio and nothing else). Barely audible clicks are considered equivalent to no clicks and will result in a rejected record.<br><br>
-- Do not skip the dropdown endscreen after a completion! This will warrant an immediate rejection of your record.<br><br>
+- The usage of clipping software such as OBS Replay Buffer/NVIDIA Instant Replay set to 5-15 minutes is highly recommended for recordings, as it drastically decreases the file size of raw footage, although it is not a [requirement](/guidelines/rawfootage#requirements).<br><br>
+- Do not skip the dropdown endscreen after a completion! This will warrant an **immediate rejection** of your record.<br><br>
 - Users of Mega Hack, Geode, other mods are subject to [additional requirements](/guidelines/eligibility#hacks).<br><br>
 - For game versions before 2.2, players can use up to 360 FPS and must enable a readable [FPS counter](/guidelines/eligibility#fps)!<br><br>
 - If you record a [liveplay](/guidelines/rawfootage#handcams-and-liveplays) (e.g., with your phone camera), make sure that your screen is clearly visible!<br><br>
-- While file size **does not affect record approval**, larger file sizes can sometimes cause substantial delays in the review process. That being said, if your raw footage is already over 10GB, **do not trim it**, as it will result in the raw footage being edited and, therefore, deleted. Instead, try to use Replay Buffer for future submissions. A tutorial can be found [here](https://discord.com/channels/395654171422097420/1463644994643427533/1463647469727383668).
 
 </div>
